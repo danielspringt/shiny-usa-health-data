@@ -1,0 +1,1278 @@
+"State","State_Abb","Type","Year","Count_1k"
+"Alabama","AL","Breast",2000,0.617605106800317
+"Alabama","AL","Breast",2001,0.642762977594854
+"Alabama","AL","Breast",2002,0.636576615924066
+"Alabama","AL","Breast",2003,0.601108142344883
+"Alabama","AL","Breast",2004,0.606882079904285
+"Alabama","AL","Breast",2005,0.637607676202531
+"Alabama","AL","Breast",2006,0.672663725670328
+"Alabama","AL","Breast",2007,0.674932058282951
+"Alabama","AL","Breast",2008,0.716793105588615
+"Alabama","AL","Breast",2009,0.710400531862134
+"Alabama","AL","Breast",2010,0.707513563082433
+"Alabama","AL","Breast",2011,0.712462652419063
+"Alabama","AL","Prostate",2006,0.77494490529402
+"Alabama","AL","Prostate",2007,0.801133836367022
+"Alabama","AL","Prostate",2008,0.774120057071249
+"Alabama","AL","Prostate",2009,0.788554900969753
+"Alabama","AL","Prostate",2010,0.780718842853422
+"Alabama","AL","Prostate",2011,0.764428090453681
+"Alabama","AL","Prostate",2003,0.635545555645602
+"Alabama","AL","Prostate",2000,0.573269514826337
+"Alabama","AL","Prostate",2001,0.639463584703767
+"Alabama","AL","Prostate",2002,0.631627526587436
+"Alabama","AL","Prostate",2004,0.670395393057706
+"Alabama","AL","Prostate",2005,0.688542053958684
+"Alaska","AK","Breast",2005,0.499503211479887
+"Alaska","AK","Breast",1999,0.415347779110993
+"Alaska","AK","Breast",2000,0.490001791696302
+"Alaska","AK","Breast",2001,0.462854878028917
+"Alaska","AK","Breast",2002,0.443852038461747
+"Alaska","AK","Breast",2003,0.507647285580102
+"Alaska","AK","Breast",2004,0.460140186662178
+"Alaska","AK","Prostate",1999,0.388200865443608
+"Alaska","AK","Breast",2006,0.503575248529995
+"Alaska","AK","Breast",2007,0.529364816514011
+"Alaska","AK","Breast",2008,0.552439693131288
+"Alaska","AK","Breast",2009,0.51171932263021
+"Alaska","AK","Breast",2010,0.561941112914873
+"Alaska","AK","Breast",2011,0.568727841331719
+"Alaska","AK","Prostate",2006,0.484572408962825
+"Alaska","AK","Prostate",2007,0.551082347447919
+"Alaska","AK","Prostate",2008,0.519863396730426
+"Alaska","AK","Prostate",2009,0.51171932263021
+"Alaska","AK","Prostate",2010,0.51171932263021
+"Alaska","AK","Prostate",2011,0.423491853211208
+"Alaska","AK","Prostate",2003,0.431635927311424
+"Alaska","AK","Prostate",2000,0.413990433427624
+"Alaska","AK","Prostate",2001,0.461497532345548
+"Alaska","AK","Prostate",2002,0.534794199247488
+"Alaska","AK","Prostate",2004,0.506289939896733
+"Alaska","AK","Prostate",2005,0.394987593860454
+"Arizona","AZ","Breast",2005,0.487559652522386
+"Arizona","AZ","Breast",1999,0.491422099495446
+"Arizona","AZ","Breast",2000,0.505831997818015
+"Arizona","AZ","Breast",2001,0.516379449167524
+"Arizona","AZ","Breast",2002,0.516973671778764
+"Arizona","AZ","Breast",2003,0.488302430786436
+"Arizona","AZ","Breast",2004,0.510140111749504
+"Arizona","AZ","Prostate",1999,0.462008080239068
+"Arizona","AZ","Prostate",2000,0.453986074987328
+"Arizona","AZ","Prostate",2001,0.484588539466186
+"Arizona","AZ","Prostate",2002,0.453986074987328
+"Arizona","AZ","Prostate",2003,0.465424860253697
+"Arizona","AZ","Prostate",2004,0.490233654272966
+"Arizona","AZ","Prostate",2005,0.533017682282243
+"Arizona","AZ","Prostate",2006,0.635223971415515
+"Arizona","AZ","Prostate",2007,0.607444064340047
+"Arizona","AZ","Prostate",2008,0.506129109123635
+"Arizona","AZ","Prostate",2009,0.509694444791074
+"Arizona","AZ","Prostate",2010,0.470475752449237
+"Arizona","AZ","Prostate",2011,0.417887051354501
+"Arizona","AZ","Breast",2007,0.57119648505441
+"Arizona","AZ","Breast",2008,0.602393172144508
+"Arizona","AZ","Breast",2009,0.604770062589468
+"Arizona","AZ","Breast",2006,0.508505999568594
+"Arizona","AZ","Breast",2011,0.610118066090627
+"Arizona","AZ","Breast",2010,0.593034166017478
+"Arkansas","AR","Prostate",2003,0.757154622368289
+"Arkansas","AR","Prostate",2004,0.704902188500487
+"Arkansas","AR","Prostate",2001,0.662426016453112
+"Arkansas","AR","Prostate",2011,0.759177297227688
+"Arkansas","AR","Breast",2003,0.608825132679043
+"Arkansas","AR","Breast",2004,0.59095817142102
+"Arkansas","AR","Breast",2005,0.587924159131922
+"Arkansas","AR","Breast",2006,0.625006531554233
+"Arkansas","AR","Breast",2007,0.656020879398349
+"Arkansas","AR","Breast",2008,0.609162245155609
+"Arkansas","AR","Breast",2009,0.645907505101355
+"Arkansas","AR","Breast",2010,0.647593067484187
+"Arkansas","AR","Breast",2011,0.641187930429424
+"Arkansas","AR","Prostate",2007,0.786483407829572
+"Arkansas","AR","Prostate",2008,0.772998908766913
+"Arkansas","AR","Prostate",2009,0.763896871899619
+"Arkansas","AR","Prostate",2010,0.769290671524682
+"Arkansas","AR","Breast",2001,0.632423006038696
+"Arkansas","AR","Prostate",2005,0.771987571337214
+"Arkansas","AR","Prostate",2006,0.78951742011867
+"California","CA","Breast",2004,0.552052058501385
+"California","CA","Breast",2005,0.571200309258424
+"California","CA","Breast",2008,0.620037368726242
+"California","CA","Breast",2009,0.620913600927775
+"California","CA","Breast",2006,0.574937181882611
+"California","CA","Breast",2007,0.600064428838348
+"California","CA","Prostate",2008,0.578390567618066
+"California","CA","Prostate",2009,0.574189807357773
+"California","CA","Prostate",2010,0.572231170671993
+"California","CA","Prostate",2011,0.570169447844855
+"California","CA","Breast",2003,0.550170736421622
+"California","CA","Prostate",1999,0.539810579215257
+"California","CA","Prostate",2000,0.538161200953547
+"California","CA","Prostate",2001,0.554835384318021
+"California","CA","Prostate",2002,0.577617421557889
+"California","CA","Prostate",2003,0.542361961213839
+"California","CA","Prostate",2004,0.575864957154822
+"California","CA","Breast",2010,0.611094645963533
+"California","CA","Breast",2011,0.639082533341924
+"California","CA","Prostate",2007,0.6154758069712
+"California","CA","Breast",1999,0.567360350492881
+"California","CA","Breast",2000,0.568391211906449
+"California","CA","Breast",2001,0.576560788608981
+"California","CA","Breast",2002,0.58122543650538
+"California","CA","Prostate",2005,0.531718317118742
+"California","CA","Prostate",2006,0.569293215643322
+"Colorado","CO","Breast",2004,0.50281317717807
+"Colorado","CO","Breast",2005,0.551171369858768
+"Colorado","CO","Breast",2008,0.604757475261704
+"Colorado","CO","Breast",2009,0.645460510027697
+"Colorado","CO","Breast",2006,0.551358081027419
+"Colorado","CO","Breast",2007,0.579551467493772
+"Colorado","CO","Prostate",2008,0.67365389649405
+"Colorado","CO","Prostate",2009,0.654796068460264
+"Colorado","CO","Prostate",2010,0.583285690866799
+"Colorado","CO","Prostate",2011,0.576377377626699
+"Colorado","CO","Breast",2003,0.537914876884522
+"Colorado","CO","Prostate",1999,0.507854378731656
+"Colorado","CO","Prostate",2000,0.507667667563005
+"Colorado","CO","Prostate",2001,0.529326163126561
+"Colorado","CO","Prostate",2002,0.535861054029358
+"Colorado","CO","Prostate",2003,0.533060386499588
+"Colorado","CO","Prostate",2004,0.542769367269457
+"Colorado","CO","Prostate",2005,0.568348797374692
+"Colorado","CO","Prostate",2006,0.609051832140685
+"Colorado","CO","Prostate",2007,0.711742974898924
+"Colorado","CO","Breast",1999,0.536421187535312
+"Colorado","CO","Breast",2000,0.523538116898369
+"Colorado","CO","Breast",2001,0.532126830656331
+"Colorado","CO","Breast",2002,0.531193274813074
+"Colorado","CO","Breast",2011,0.630523616535589
+"Colorado","CO","Breast",2010,0.632577439390754
+"Connecticut","CT","Prostate",2000,0.857736182592988
+"Connecticut","CT","Prostate",2001,0.858848320268959
+"Connecticut","CT","Prostate",1999,0.752083103375699
+"Connecticut","CT","Prostate",2004,0.699256563767055
+"Connecticut","CT","Prostate",2005,0.724557695895406
+"Connecticut","CT","Prostate",2002,0.838273773263487
+"Connecticut","CT","Prostate",2003,0.766818927582321
+"Connecticut","CT","Prostate",2008,0.811026400202187
+"Connecticut","CT","Prostate",2009,0.84439053048133
+"Connecticut","CT","Prostate",2010,0.756809688498578
+"Connecticut","CT","Prostate",2011,0.734844969398142
+"Connecticut","CT","Breast",2003,0.765984824325343
+"Connecticut","CT","Breast",2004,0.790729887615708
+"Connecticut","CT","Breast",2005,0.802963402051394
+"Connecticut","CT","Breast",2006,0.808246056012258
+"Connecticut","CT","Breast",2007,0.819645467190965
+"Connecticut","CT","Breast",2008,0.83076684395068
+"Connecticut","CT","Breast",2009,0.853287631889102
+"Connecticut","CT","Breast",2010,0.867189352838745
+"Connecticut","CT","Breast",2011,0.863018836553852
+"Connecticut","CT","Prostate",2007,0.868023456095724
+"Connecticut","CT","Breast",1999,0.831044878369673
+"Connecticut","CT","Breast",2000,0.806577849498301
+"Connecticut","CT","Breast",2001,0.851897459794138
+"Connecticut","CT","Breast",2002,0.797958782509522
+"Connecticut","CT","Prostate",2006,0.849117115604209
+"Delaware","DE","Breast",2004,0.611363233128192
+"Delaware","DE","Breast",2005,0.705419115147914
+"Delaware","DE","Breast",2006,0.645565372044454
+"Delaware","DE","Breast",2008,0.726795451970578
+"Delaware","DE","Breast",2009,0.739621254064176
+"Delaware","DE","Breast",2010,0.786649195074037
+"Delaware","DE","Breast",2007,0.749240605634375
+"Delaware","DE","Prostate",2008,0.903150230757556
+"Delaware","DE","Prostate",2009,0.861466373953361
+"Delaware","DE","Prostate",2010,0.821920150831433
+"Delaware","DE","Prostate",2011,0.836883586607297
+"Delaware","DE","Breast",2003,0.626326668904057
+"Delaware","DE","Prostate",1999,0.645565372044454
+"Delaware","DE","Prostate",2000,0.628464302586323
+"Delaware","DE","Prostate",2001,0.752447056157774
+"Delaware","DE","Prostate",2002,0.819782517149166
+"Delaware","DE","Prostate",2003,0.740690070905309
+"Delaware","DE","Prostate",2004,0.688318045689782
+"Delaware","DE","Prostate",2005,0.726795451970578
+"Delaware","DE","Breast",2011,0.759928774045707
+"Delaware","DE","Prostate",2007,0.991862028571612
+"Delaware","DE","Breast",1999,0.639152470997655
+"Delaware","DE","Breast",2000,0.649840639408987
+"Delaware","DE","Breast",2001,0.645565372044454
+"Delaware","DE","Breast",2002,0.620982584698391
+"Delaware","DE","Prostate",2006,0.935214735991552
+"District of Columbia",NA,"Breast",2006,0.676892909774425
+"District of Columbia",NA,"Breast",2007,0.681446001095777
+"District of Columbia",NA,"Breast",2008,0.645021270524956
+"District of Columbia",NA,"Breast",2010,0.714835337452363
+"District of Columbia",NA,"Breast",2011,0.767954736201477
+"District of Columbia",NA,"Prostate",2007,0.857498865521412
+"District of Columbia",NA,"Breast",2009,0.687516789524248
+"District of Columbia",NA,"Prostate",2010,0.745189279594714
+"District of Columbia",NA,"Prostate",2011,0.802861769665181
+"District of Columbia",NA,"Breast",2003,0.898476687413586
+"District of Columbia",NA,"Breast",2004,0.620738116811076
+"District of Columbia",NA,"Breast",2005,0.628326602346663
+"District of Columbia",NA,"Prostate",1999,0.834733408914649
+"District of Columbia",NA,"Prostate",2000,0.857498865521412
+"District of Columbia",NA,"Prostate",2003,0.728494611416421
+"District of Columbia",NA,"Prostate",2004,0.645021270524956
+"District of Columbia",NA,"Prostate",2005,0.638950482096486
+"District of Columbia",NA,"Prostate",2006,0.649574361846309
+"District of Columbia",NA,"Breast",2000,0.678410606881542
+"District of Columbia",NA,"Prostate",2008,0.748224673808949
+"District of Columbia",NA,"Prostate",2009,0.689034486631365
+"District of Columbia",NA,"Breast",1999,0.68599909241713
+"Florida","FL","Prostate",2008,0.7773472642569
+"Florida","FL","Prostate",1999,0.773727954697504
+"Florida","FL","Prostate",2000,0.778201823458424
+"Florida","FL","Prostate",2001,0.796851321326978
+"Florida","FL","Prostate",2002,0.779760137296497
+"Florida","FL","Prostate",2003,0.718382679351743
+"Florida","FL","Prostate",2004,0.672588359787721
+"Florida","FL","Prostate",2005,0.718583752105043
+"Florida","FL","Prostate",2006,0.762317075947743
+"Florida","FL","Prostate",2007,0.808513541018364
+"Florida","FL","Breast",1999,0.68223985194611
+"Florida","FL","Breast",2000,0.681033415426312
+"Florida","FL","Breast",2001,0.69098651671465
+"Florida","FL","Breast",2002,0.689729812006527
+"Florida","FL","Breast",2003,0.649263920404949
+"Florida","FL","Breast",2004,0.641673423967882
+"Florida","FL","Breast",2005,0.661730431109534
+"Florida","FL","Breast",2006,0.676911423983666
+"Florida","FL","Breast",2007,0.691036784902975
+"Florida","FL","Breast",2008,0.71295371501265
+"Florida","FL","Breast",2009,0.720343138696416
+"Florida","FL","Breast",2010,0.723359229995913
+"Florida","FL","Breast",2011,0.723861911879162
+"Florida","FL","Prostate",2010,0.70797716436848
+"Florida","FL","Prostate",2011,0.674297478190769
+"Florida","FL","Prostate",2009,0.753218533860928
+"Georgia","GA","Breast",2001,0.517363825315234
+"Georgia","GA","Breast",1999,0.470717890835243
+"Georgia","GA","Breast",2000,0.50102289285409
+"Georgia","GA","Breast",2005,0.524692485934171
+"Georgia","GA","Breast",2006,0.549946654283211
+"Georgia","GA","Breast",2007,0.600950170752841
+"Georgia","GA","Breast",2008,0.613428700995896
+"Georgia","GA","Breast",2009,0.633037819949268
+"Georgia","GA","Breast",2010,0.617588211076914
+"Georgia","GA","Breast",2011,0.660866923110367
+"Georgia","GA","Prostate",2006,0.633037819949268
+"Georgia","GA","Prostate",2007,0.67730689152582
+"Georgia","GA","Prostate",2008,0.691171925129215
+"Georgia","GA","Breast",2002,0.523900198299691
+"Georgia","GA","Breast",2003,0.522018515167802
+"Georgia","GA","Breast",2004,0.533605721822067
+"Georgia","GA","Prostate",1999,0.450118412338771
+"Georgia","GA","Prostate",2000,0.493595196280843
+"Georgia","GA","Prostate",2001,0.534001865639307
+"Georgia","GA","Prostate",2002,0.545490036339263
+"Georgia","GA","Prostate",2003,0.493298088417914
+"Georgia","GA","Prostate",2004,0.532912470141898
+"Georgia","GA","Prostate",2005,0.548461114968562
+"Georgia","GA","Prostate",2010,0.645417314238013
+"Georgia","GA","Prostate",2011,0.650864291725061
+"Georgia","GA","Prostate",2009,0.680674113972359
+"Hawaii","HI","Breast",2001,0.648087683445798
+"Hawaii","HI","Breast",1999,0.619205514944409
+"Hawaii","HI","Breast",2000,0.554396746599829
+"Hawaii","HI","Breast",2005,0.613569969870967
+"Hawaii","HI","Breast",2006,0.591732232711381
+"Hawaii","HI","Breast",2007,0.646678797177437
+"Hawaii","HI","Breast",2008,0.678378738215547
+"Hawaii","HI","Breast",2009,0.734734188949964
+"Hawaii","HI","Breast",2010,0.759389698646272
+"Hawaii","HI","Breast",2011,0.740369734023406
+"Hawaii","HI","Prostate",2006,0.638225479567275
+"Hawaii","HI","Prostate",2007,0.628363275688752
+"Hawaii","HI","Prostate",2008,0.606525538529165
+"Hawaii","HI","Breast",2002,0.639634365835635
+"Hawaii","HI","Breast",2003,0.609343311065886
+"Hawaii","HI","Breast",2004,0.620614401212769
+"Hawaii","HI","Prostate",1999,0.55651007600237
+"Hawaii","HI","Prostate",2000,0.568485609283433
+"Hawaii","HI","Prostate",2001,0.565667836746713
+"Hawaii","HI","Prostate",2002,0.49240575079197
+"Hawaii","HI","Prostate",2003,0.55580563286819
+"Hawaii","HI","Prostate",2004,0.595254448382281
+"Hawaii","HI","Prostate",2005,0.595958891516462
+"Hawaii","HI","Prostate",2010,0.541716770184585
+"Hawaii","HI","Prostate",2011,0.562850064209992
+"Hawaii","HI","Prostate",2009,0.572007824954334
+"Idaho","ID","Breast",2001,0.517600877107113
+"Idaho","ID","Breast",1999,0.503528985649118
+"Idaho","ID","Breast",2000,0.525554554887719
+"Idaho","ID","Prostate",1999,0.518824519842591
+"Idaho","ID","Prostate",2000,0.616104117313076
+"Idaho","ID","Prostate",2001,0.627728723300115
+"Idaho","ID","Prostate",2002,0.611209546371165
+"Idaho","ID","Prostate",2003,0.607538618164732
+"Idaho","ID","Prostate",2004,0.626505080564638
+"Idaho","ID","Prostate",2005,0.663826183996711
+"Idaho","ID","Prostate",2006,0.726231963506079
+"Idaho","ID","Prostate",2007,0.795979599428314
+"Idaho","ID","Prostate",2008,0.707265501106173
+"Idaho","ID","Prostate",2009,0.719501928460951
+"Idaho","ID","Prostate",2010,0.711548250680345
+"Idaho","ID","Prostate",2011,0.733573819918946
+"Idaho","ID","Breast",2003,0.501081700178162
+"Idaho","ID","Breast",2004,0.467431524952523
+"Idaho","ID","Breast",2005,0.495575307868512
+"Idaho","ID","Breast",2006,0.576335728410048
+"Idaho","ID","Breast",2007,0.591019441235781
+"Idaho","ID","Breast",2008,0.578171192513264
+"Idaho","ID","Breast",2009,0.603255868590559
+"Idaho","ID","Breast",2010,0.614880474577599
+"Idaho","ID","Breast",2011,0.615492295945337
+"Idaho","ID","Breast",2002,0.553698337803708
+"Illinois","IL","Prostate",2009,0.739951151268033
+"Illinois","IL","Prostate",2010,0.648029824743917
+"Illinois","IL","Prostate",2011,0.654240725184735
+"Illinois","IL","Prostate",2008,0.757031127480284
+"Illinois","IL","Breast",2004,0.64919436857657
+"Illinois","IL","Breast",2005,0.664255802145556
+"Illinois","IL","Breast",2006,0.693291761706383
+"Illinois","IL","Breast",2007,0.69562084937169
+"Illinois","IL","Breast",2008,0.708663740297409
+"Illinois","IL","Breast",2009,0.724035718888435
+"Illinois","IL","Breast",2010,0.729703165540682
+"Illinois","IL","Breast",2011,0.750587318272935
+"Illinois","IL","Prostate",2007,0.759515487656612
+"Illinois","IL","Breast",1999,0.708508467786388
+"Illinois","IL","Breast",2000,0.689642857697402
+"Illinois","IL","Breast",2001,0.704238473733326
+"Illinois","IL","Breast",2003,0.63917929161575
+"Illinois","IL","Prostate",1999,0.651445819986367
+"Illinois","IL","Prostate",2000,0.656492176594532
+"Illinois","IL","Prostate",2001,0.695931394393731
+"Illinois","IL","Prostate",2002,0.720076269857413
+"Illinois","IL","Prostate",2003,0.664721619678617
+"Illinois","IL","Prostate",2004,0.653852543907184
+"Illinois","IL","Prostate",2005,0.643526921924323
+"Illinois","IL","Prostate",2006,0.69888157210312
+"Illinois","IL","Breast",2002,0.687701951309646
+"Indiana","IN","Prostate",2009,0.566936820651659
+"Indiana","IN","Prostate",2010,0.526008226647395
+"Indiana","IN","Prostate",2011,0.539347916545081
+"Indiana","IN","Prostate",2008,0.596041598610247
+"Indiana","IN","Breast",2004,0.606046366033511
+"Indiana","IN","Breast",2005,0.614535259604766
+"Indiana","IN","Breast",2006,0.63985035293333
+"Indiana","IN","Breast",2007,0.649551945586192
+"Indiana","IN","Breast",2008,0.660769412091065
+"Indiana","IN","Breast",2009,0.688509903582844
+"Indiana","IN","Breast",2010,0.677595611848373
+"Indiana","IN","Breast",2011,0.675321801070358
+"Indiana","IN","Prostate",2007,0.634696381836496
+"Indiana","IN","Breast",1999,0.666832907499104
+"Indiana","IN","Breast",2000,0.643488450178153
+"Indiana","IN","Breast",2001,0.669864655203123
+"Indiana","IN","Breast",2003,0.605591603877908
+"Indiana","IN","Prostate",1999,0.517367745690939
+"Indiana","IN","Prostate",2000,0.563905072947639
+"Indiana","IN","Prostate",2001,0.599376521084668
+"Indiana","IN","Prostate",2002,0.568301107118468
+"Indiana","IN","Prostate",2003,0.584217782564571
+"Indiana","IN","Prostate",2004,0.578609049312134
+"Indiana","IN","Prostate",2005,0.579366986238139
+"Indiana","IN","Prostate",2006,0.624236852257629
+"Indiana","IN","Breast",2002,0.661527349017069
+"Iowa","IA","Prostate",2009,0.739590219386018
+"Iowa","IA","Prostate",2010,0.69839459358906
+"Iowa","IA","Prostate",2011,0.711911908303686
+"Iowa","IA","Prostate",2008,0.694854344497133
+"Iowa","IA","Prostate",1999,0.725751063844852
+"Iowa","IA","Prostate",2000,0.752785693274106
+"Iowa","IA","Prostate",2001,0.733153402855243
+"Iowa","IA","Prostate",2002,0.742486786824866
+"Iowa","IA","Prostate",2003,0.671359964159806
+"Iowa","IA","Prostate",2004,0.687773846313281
+"Iowa","IA","Prostate",2005,0.696463548629827
+"Iowa","IA","Prostate",2006,0.736371811120631
+"Iowa","IA","Prostate",2007,0.734118925334859
+"Iowa","IA","Breast",1999,0.754716738233339
+"Iowa","IA","Breast",2000,0.71094638582407
+"Iowa","IA","Breast",2001,0.745705195090254
+"Iowa","IA","Breast",2002,0.745061513437176
+"Iowa","IA","Breast",2003,0.695176185323672
+"Iowa","IA","Breast",2004,0.696141707803288
+"Iowa","IA","Breast",2005,0.702578524334063
+"Iowa","IA","Breast",2006,0.703865887640218
+"Iowa","IA","Breast",2007,0.71352111243638
+"Iowa","IA","Breast",2008,0.70837165921176
+"Iowa","IA","Breast",2009,0.750210966661796
+"Iowa","IA","Breast",2010,0.762440918070268
+"Iowa","IA","Breast",2011,0.76694668964181
+"Kansas","KS","Prostate",2008,0.767556432959679
+"Kansas","KS","Prostate",2009,0.73518752102688
+"Kansas","KS","Prostate",2010,0.685601102746846
+"Kansas","KS","Prostate",2011,0.765834682324956
+"Kansas","KS","Breast",2003,0.642212986751818
+"Kansas","KS","Breast",2004,0.639113835609316
+"Kansas","KS","Breast",2005,0.655298291575715
+"Kansas","KS","Breast",2006,0.703851659474914
+"Kansas","KS","Breast",2007,0.67630364931934
+"Kansas","KS","Breast",2008,0.675614949065451
+"Kansas","KS","Breast",2009,0.682501951604344
+"Kansas","KS","Breast",2010,0.675614949065451
+"Kansas","KS","Breast",2011,0.704540359728804
+"Kansas","KS","Prostate",2007,0.774787785625517
+"Kansas","KS","Breast",1999,0.696620306809076
+"Kansas","KS","Breast",2000,0.689044604016293
+"Kansas","KS","Breast",2001,0.699030757697689
+"Kansas","KS","Breast",2002,0.691455054904906
+"Kansas","KS","Prostate",1999,0.705917760236582
+"Kansas","KS","Prostate",2000,0.6983420574438
+"Kansas","KS","Prostate",2001,0.668727946526557
+"Kansas","KS","Prostate",2002,0.698686407570744
+"Kansas","KS","Prostate",2003,0.683535001985178
+"Kansas","KS","Prostate",2004,0.715903913917978
+"Kansas","KS","Prostate",2005,0.686978503254625
+"Kansas","KS","Prostate",2006,0.695242906301297
+"Kentucky","KY","Prostate",2008,0.647111776550672
+"Kentucky","KY","Prostate",2009,0.635556209112267
+"Kentucky","KY","Prostate",2010,0.638728325663986
+"Kentucky","KY","Prostate",2011,0.638954905417681
+"Kentucky","KY","Breast",2003,0.63623594837335
+"Kentucky","KY","Breast",2004,0.63464989009749
+"Kentucky","KY","Breast",2005,0.642580181476788
+"Kentucky","KY","Breast",2006,0.692201147535821
+"Kentucky","KY","Breast",2007,0.690161929752573
+"Kentucky","KY","Breast",2008,0.701717497190978
+"Kentucky","KY","Breast",2009,0.70828831004811
+"Kentucky","KY","Breast",2010,0.705116193496391
+"Kentucky","KY","Breast",2011,0.71961729773282
+"Kentucky","KY","Prostate",2007,0.714405963397853
+"Kentucky","KY","Breast",1999,0.664105258077738
+"Kentucky","KY","Breast",2000,0.646658617043284
+"Kentucky","KY","Breast",2001,0.65504206792997
+"Kentucky","KY","Breast",2002,0.643033340984176
+"Kentucky","KY","Prostate",1999,0.634876469851185
+"Kentucky","KY","Prostate",2000,0.6303448747773
+"Kentucky","KY","Prostate",2001,0.650510472856085
+"Kentucky","KY","Prostate",2002,0.666824215122069
+"Kentucky","KY","Prostate",2003,0.613577973003929
+"Kentucky","KY","Prostate",2004,0.594771853447309
+"Kentucky","KY","Prostate",2005,0.596811071230557
+"Kentucky","KY","Prostate",2006,0.708061730294416
+"Louisiana","LA","Prostate",2008,0.755536514802322
+"Louisiana","LA","Prostate",2009,0.835972226882045
+"Louisiana","LA","Prostate",2010,0.774462564703433
+"Louisiana","LA","Prostate",2011,0.810163977016893
+"Louisiana","LA","Breast",2003,0.629721296709706
+"Louisiana","LA","Prostate",1999,0.646281590373179
+"Louisiana","LA","Prostate",2000,0.664992571525414
+"Louisiana","LA","Prostate",2001,0.713383040022574
+"Louisiana","LA","Prostate",2002,0.772526945963547
+"Louisiana","LA","Prostate",2003,0.727792646197283
+"Louisiana","LA","Prostate",2004,0.704565221318647
+"Louisiana","LA","Prostate",2005,0.644130902884416
+"Louisiana","LA","Prostate",2006,0.702414533829884
+"Louisiana","LA","Prostate",2007,0.796399577088812
+"Louisiana","LA","Breast",1999,0.644561040382169
+"Louisiana","LA","Breast",2000,0.644130902884416
+"Louisiana","LA","Breast",2001,0.628000746718696
+"Louisiana","LA","Breast",2002,0.626495265476562
+"Louisiana","LA","Breast",2007,0.631871984198469
+"Louisiana","LA","Breast",2004,0.640044596655767
+"Louisiana","LA","Breast",2005,0.576814384486145
+"Louisiana","LA","Breast",2006,0.599611671867029
+"Louisiana","LA","Breast",2011,0.694241921372586
+"Louisiana","LA","Breast",2008,0.631011709202964
+"Louisiana","LA","Breast",2009,0.682628208933268
+"Louisiana","LA","Breast",2010,0.682843277682144
+"Maine","ME","Prostate",1999,0.773632441137398
+"Maine","ME","Breast",1999,0.750325730082724
+"Maine","ME","Breast",2000,0.815734886913582
+"Maine","ME","Breast",2001,0.849567209412302
+"Maine","ME","Breast",2002,0.79468366402549
+"Maine","ME","Breast",2003,0.808216593024978
+"Maine","ME","Breast",2004,0.799194640358653
+"Maine","ME","Breast",2005,0.839041597968256
+"Maine","ME","Breast",2006,0.84505623307914
+"Maine","ME","Breast",2007,0.854078185745465
+"Maine","ME","Breast",2008,0.857837332689767
+"Maine","ME","Breast",2009,0.825508668968768
+"Maine","ME","Breast",2010,0.848815380023442
+"Maine","ME","Breast",2011,0.86310013841179
+"Maine","ME","Prostate",2006,0.966100764685671
+"Maine","ME","Prostate",2007,0.958582470797067
+"Maine","ME","Prostate",2008,0.904450754799115
+"Maine","ME","Prostate",2009,0.72626718963919
+"Maine","ME","Prostate",2010,0.774384270526258
+"Maine","ME","Prostate",2011,0.756340365193607
+"Maine","ME","Prostate",2003,0.843552574301419
+"Maine","ME","Prostate",2000,0.887910508244185
+"Maine","ME","Prostate",2001,0.910465389909999
+"Maine","ME","Prostate",2002,0.840545256745977
+"Maine","ME","Prostate",2004,0.914224536854301
+"Maine","ME","Prostate",2005,0.838289768579396
+"Maryland","MD","Breast",2006,0.641355249065199
+"Maryland","MD","Breast",1999,0.658087710559204
+"Maryland","MD","Breast",2000,0.648215558277741
+"Maryland","MD","Breast",2002,0.670804381294647
+"Maryland","MD","Breast",2003,0.696907021225295
+"Maryland","MD","Breast",2004,0.651227401346662
+"Maryland","MD","Breast",2005,0.629475201404456
+"Maryland","MD","Prostate",1999,0.68184780588069
+"Maryland","MD","Breast",2007,0.697408995070115
+"Maryland","MD","Breast",2008,0.757645856448532
+"Maryland","MD","Breast",2009,0.739240148805127
+"Maryland","MD","Breast",2010,0.75178949492563
+"Maryland","MD","Breast",2011,0.741415368799347
+"Maryland","MD","Prostate",2006,0.698412942759755
+"Maryland","MD","Prostate",2007,0.748610327241769
+"Maryland","MD","Prostate",2008,0.754634013379611
+"Maryland","MD","Prostate",2009,0.743590588793568
+"Maryland","MD","Prostate",2010,0.697910968914935
+"Maryland","MD","Prostate",2011,0.657251087484504
+"Maryland","MD","Prostate",2003,0.705942550432057
+"Maryland","MD","Prostate",2004,0.600528043019828
+"Maryland","MD","Prostate",2000,0.700086188909156
+"Maryland","MD","Prostate",2002,0.759988401057692
+"Maryland","MD","Prostate",2005,0.614415986059852
+"Massachusetts","MA","Breast",2005,0.747619714033606
+"Massachusetts","MA","Breast",2006,0.763037610178658
+"Massachusetts","MA","Breast",1999,0.783644221372525
+"Massachusetts","MA","Breast",2000,0.785423209389261
+"Massachusetts","MA","Breast",2001,0.763630606184237
+"Massachusetts","MA","Breast",2002,0.759627883146579
+"Massachusetts","MA","Breast",2003,0.733091311896923
+"Massachusetts","MA","Breast",2004,0.75399442109358
+"Massachusetts","MA","Prostate",1999,0.771487803258157
+"Massachusetts","MA","Prostate",2000,0.812997523648681
+"Massachusetts","MA","Prostate",2001,0.817444993690522
+"Massachusetts","MA","Prostate",2002,0.790908422440866
+"Massachusetts","MA","Prostate",2003,0.72953333586345
+"Massachusetts","MA","Prostate",2004,0.706258242644478
+"Massachusetts","MA","Prostate",2005,0.742282749983396
+"Massachusetts","MA","Prostate",2006,0.793725153467366
+"Massachusetts","MA","Prostate",2007,0.806326318585918
+"Massachusetts","MA","Prostate",2008,0.770894807252578
+"Massachusetts","MA","Prostate",2009,0.734277303908081
+"Massachusetts","MA","Prostate",2010,0.720638395779766
+"Massachusetts","MA","Prostate",2011,0.725085865821608
+"Massachusetts","MA","Breast",2010,0.774156285283262
+"Massachusetts","MA","Breast",2007,0.774601032287446
+"Massachusetts","MA","Breast",2008,0.824116198753285
+"Massachusetts","MA","Breast",2009,0.815221258669602
+"Massachusetts","MA","Breast",2011,0.827822423788153
+"Michigan","MI","Prostate",1999,0.885984760456664
+"Michigan","MI","Prostate",2001,0.901827540341823
+"Michigan","MI","Prostate",2002,0.92493579890043
+"Michigan","MI","Prostate",2003,0.845217352344535
+"Michigan","MI","Prostate",2000,0.889920228071448
+"Michigan","MI","Prostate",2009,0.826448199104792
+"Michigan","MI","Prostate",2010,0.840070971617509
+"Michigan","MI","Prostate",2011,0.875389270724551
+"Michigan","MI","Breast",2002,0.740675186987689
+"Michigan","MI","Breast",2003,0.714136007944397
+"Michigan","MI","Breast",2004,0.713328732536236
+"Michigan","MI","Breast",2005,0.708989627217371
+"Michigan","MI","Breast",2006,0.713530551388277
+"Michigan","MI","Breast",2007,0.72483240710253
+"Michigan","MI","Breast",2008,0.70787962353115
+"Michigan","MI","Breast",2009,0.742592466082071
+"Michigan","MI","Breast",2010,0.716860562446941
+"Michigan","MI","Breast",2011,0.747637937383077
+"Michigan","MI","Prostate",2008,0.83331004007416
+"Michigan","MI","Breast",1999,0.73310698003618
+"Michigan","MI","Breast",2000,0.741987009525951
+"Michigan","MI","Breast",2001,0.74158337182187
+"Michigan","MI","Prostate",2007,0.90838665303313
+"Michigan","MI","Prostate",2004,0.823622735176229
+"Michigan","MI","Prostate",2005,0.780433500839617
+"Michigan","MI","Prostate",2006,0.845419171196575
+"Minnesota","MN","Breast",2003,0.62724784425929
+"Minnesota","MN","Breast",2004,0.623766188097757
+"Minnesota","MN","Breast",2005,0.644656125066953
+"Minnesota","MN","Breast",2006,0.653451888001352
+"Minnesota","MN","Breast",2007,0.702378319323943
+"Minnesota","MN","Prostate",2009,0.773110912921397
+"Minnesota","MN","Prostate",2010,0.719786600131607
+"Minnesota","MN","Prostate",2011,0.763948659864732
+"Minnesota","MN","Breast",2002,0.66554606203615
+"Minnesota","MN","Prostate",1999,0.667745002769749
+"Minnesota","MN","Prostate",2000,0.749472300035201
+"Minnesota","MN","Prostate",2001,0.765231375292665
+"Minnesota","MN","Prostate",2002,0.772927667860264
+"Minnesota","MN","Prostate",2003,0.713739513114208
+"Minnesota","MN","Breast",2008,0.700912358834877
+"Minnesota","MN","Breast",2009,0.724184481598806
+"Minnesota","MN","Breast",2010,0.708791896463609
+"Minnesota","MN","Breast",2011,0.765048130231532
+"Minnesota","MN","Prostate",2008,0.819471913388122
+"Minnesota","MN","Breast",1999,0.644839370128087
+"Minnesota","MN","Breast",2000,0.675441295337348
+"Minnesota","MN","Breast",2001,0.672875864481482
+"Minnesota","MN","Prostate",2007,0.879942783562112
+"Minnesota","MN","Prostate",2004,0.748739319790668
+"Minnesota","MN","Prostate",2005,0.770545482065531
+"Minnesota","MN","Prostate",2006,0.840361850357319
+"Mississippi","MS","Breast",2007,0.641599637150523
+"Mississippi","MS","Breast",2008,0.657297285742961
+"Mississippi","MS","Breast",2009,0.666315083870533
+"Mississippi","MS","Breast",2010,0.667985046486749
+"Mississippi","MS","Breast",2011,0.654959338080258
+"Mississippi","MS","Breast",2003,0.560439454002383
+"Mississippi","MS","Breast",2004,0.59584266146618
+"Mississippi","MS","Breast",2005,0.585154900722392
+"Mississippi","MS","Breast",2006,0.580479005396985
+"Mississippi","MS","Prostate",2003,0.677336837137564
+"Mississippi","MS","Prostate",2004,0.674330904428373
+"Mississippi","MS","Prostate",2005,0.717415939926769
+"Mississippi","MS","Prostate",2006,0.799912093167882
+"Mississippi","MS","Prostate",2007,0.83230936792249
+"Mississippi","MS","Prostate",2008,0.788222354854364
+"Mississippi","MS","Prostate",2009,0.748477244588403
+"Mississippi","MS","Prostate",2010,0.778536571680306
+"Mississippi","MS","Prostate",2011,0.752485154867323
+"Missouri","MO","Prostate",1999,0.632133873189624
+"Missouri","MO","Prostate",2000,0.593872704762806
+"Missouri","MO","Prostate",2001,0.648625756132218
+"Missouri","MO","Prostate",2002,0.617621016200142
+"Missouri","MO","Prostate",2003,0.59898518847501
+"Missouri","MO","Prostate",2004,0.566001422589823
+"Missouri","MO","Prostate",2005,0.62091939278866
+"Missouri","MO","Prostate",2006,0.660005155362608
+"Missouri","MO","Prostate",2007,0.716407395026279
+"Missouri","MO","Prostate",2008,0.650604782085329
+"Missouri","MO","Prostate",2009,0.647306405496811
+"Missouri","MO","Prostate",2010,0.581009036067583
+"Missouri","MO","Prostate",2011,0.607725886434585
+"Missouri","MO","Breast",2002,0.687216762217888
+"Missouri","MO","Breast",2003,0.672868824057831
+"Missouri","MO","Breast",2004,0.668086178004479
+"Missouri","MO","Breast",2005,0.686886924559036
+"Missouri","MO","Breast",2006,0.686557086900184
+"Missouri","MO","Breast",2007,0.674023255863813
+"Missouri","MO","Breast",2008,0.739660949975336
+"Missouri","MO","Breast",2009,0.744938352516966
+"Missouri","MO","Breast",2010,0.713438856096612
+"Missouri","MO","Breast",2011,0.750545592717448
+"Missouri","MO","Breast",1999,0.679960333723147
+"Missouri","MO","Breast",2000,0.683918385629369
+"Missouri","MO","Breast",2001,0.676661957134628
+"Montana","MT","Prostate",2009,0.91150756316806
+"Montana","MT","Breast",2003,0.677036164282386
+"Montana","MT","Breast",2004,0.633072776991322
+"Montana","MT","Breast",2005,0.678990092606433
+"Montana","MT","Breast",2006,0.676059200120362
+"Montana","MT","Breast",2007,0.71025294579119
+"Montana","MT","Breast",2008,0.697552411684882
+"Montana","MT","Breast",2009,0.763009010540466
+"Montana","MT","Breast",2010,0.777663472970821
+"Montana","MT","Breast",2011,0.773755616322726
+"Montana","MT","Prostate",2008,0.810880254479625
+"Montana","MT","Prostate",2010,0.838235251016287
+"Montana","MT","Prostate",2011,0.816742039451767
+"Montana","MT","Breast",2002,0.630141884505251
+"Montana","MT","Prostate",1999,0.772778652160703
+"Montana","MT","Prostate",2000,0.804041505345459
+"Montana","MT","Prostate",2001,0.853866677608665
+"Montana","MT","Prostate",2002,0.918346312302226
+"Montana","MT","Prostate",2003,0.880244709983304
+"Montana","MT","Prostate",2004,0.886106494955446
+"Montana","MT","Prostate",2005,0.863636319228902
+"Montana","MT","Prostate",2006,0.901737921547824
+"Montana","MT","Prostate",2007,0.948632201324959
+"Montana","MT","Breast",1999,0.692667590874764
+"Montana","MT","Breast",2000,0.684851877578575
+"Montana","MT","Breast",2001,0.692667590874764
+"Nebraska","NE","Prostate",2009,0.602709642238147
+"Nebraska","NE","Breast",2003,0.635130531282703
+"Nebraska","NE","Breast",2004,0.655858640671846
+"Nebraska","NE","Breast",2005,0.638319471188725
+"Nebraska","NE","Breast",2006,0.687216549747728
+"Nebraska","NE","Breast",2007,0.633004571345355
+"Nebraska","NE","Breast",2008,0.709539129089882
+"Nebraska","NE","Breast",2009,0.66755142032726
+"Nebraska","NE","Breast",2010,0.665425460389912
+"Nebraska","NE","Breast",2011,0.697846349434468
+"Nebraska","NE","Prostate",2008,0.676055260076652
+"Nebraska","NE","Prostate",2010,0.654264170718835
+"Nebraska","NE","Prostate",2011,0.637256491220051
+"Nebraska","NE","Breast",2002,0.710070619074219
+"Nebraska","NE","Prostate",1999,0.743022998103112
+"Nebraska","NE","Prostate",2000,0.732393198416372
+"Nebraska","NE","Prostate",2001,0.67286632017063
+"Nebraska","NE","Prostate",2002,0.678181220013999
+"Nebraska","NE","Prostate",2003,0.671271850217619
+"Nebraska","NE","Prostate",2004,0.674460790123641
+"Nebraska","NE","Prostate",2005,0.707944659136871
+"Nebraska","NE","Prostate",2006,0.725483828619992
+"Nebraska","NE","Prostate",2007,0.773849417194658
+"Nebraska","NE","Breast",1999,0.667019930342923
+"Nebraska","NE","Breast",2000,0.677649730029662
+"Nebraska","NE","Breast",2001,0.707413169152534
+"Nevada","NV","Prostate",2010,0.593498148532334
+"Nevada","NV","Prostate",2000,0.520939917910577
+"Nevada","NV","Prostate",2001,0.559684604164913
+"Nevada","NV","Prostate",2002,0.602303759044683
+"Nevada","NV","Prostate",2003,0.545595627345154
+"Nevada","NV","Prostate",2004,0.549470095970588
+"Nevada","NV","Prostate",2005,0.492409739850565
+"Nevada","NV","Prostate",2006,0.593850372952828
+"Nevada","NV","Prostate",2007,0.563559072790346
+"Nevada","NV","Prostate",2008,0.621676102171851
+"Nevada","NV","Prostate",2009,0.69705212815756
+"Nevada","NV","Breast",2000,0.468810703677469
+"Nevada","NV","Breast",2001,0.503328696885878
+"Nevada","NV","Breast",2002,0.485013027020192
+"Nevada","NV","Breast",2003,0.451903931493759
+"Nevada","NV","Breast",2004,0.467754030415988
+"Nevada","NV","Breast",2005,0.484660802599698
+"Nevada","NV","Breast",2006,0.505442043408842
+"Nevada","NV","Breast",2007,0.528688855161444
+"Nevada","NV","Breast",2008,0.551231218073058
+"Nevada","NV","Breast",2009,0.578704722871587
+"Nevada","NV","Breast",2010,0.560036828585407
+"New Hampshire","NH","Breast",1999,0.684346626088228
+"New Hampshire","NH","Breast",2000,0.737104625896792
+"New Hampshire","NH","Breast",2001,0.740873054454546
+"New Hampshire","NH","Breast",2002,0.76046888295487
+"New Hampshire","NH","Breast",2003,0.682085568953575
+"New Hampshire","NH","Breast",2004,0.728060397358181
+"New Hampshire","NH","Breast",2005,0.766498368647277
+"New Hampshire","NH","Breast",2006,0.76875942578193
+"New Hampshire","NH","Breast",2007,0.783079454301397
+"New Hampshire","NH","Breast",2008,0.826039539859799
+"New Hampshire","NH","Breast",2009,0.814734254186536
+"New Hampshire","NH","Breast",2010,0.798906854243967
+"New Hampshire","NH","Breast",2011,0.878043853956812
+"New Hampshire","NH","Prostate",2006,0.816241625609638
+"New Hampshire","NH","Prostate",2007,0.85166485405253
+"New Hampshire","NH","Prostate",2008,0.841113254090818
+"New Hampshire","NH","Prostate",2009,0.824532168436698
+"New Hampshire","NH","Prostate",2010,0.860709082591141
+"New Hampshire","NH","Prostate",2011,0.862216454014243
+"New Hampshire","NH","Prostate",1999,0.634603369125868
+"New Hampshire","NH","Prostate",2000,0.693390854626839
+"New Hampshire","NH","Prostate",2001,0.774035225762786
+"New Hampshire","NH","Prostate",2002,0.801167911378619
+"New Hampshire","NH","Prostate",2003,0.697159283184593
+"New Hampshire","NH","Prostate",2004,0.755946768685565
+"New Hampshire","NH","Prostate",2005,0.719769854531121
+"New Jersey","NJ","Breast",1999,0.758767869279803
+"New Jersey","NJ","Breast",2000,0.757313433670744
+"New Jersey","NJ","Breast",2001,0.759103508266509
+"New Jersey","NJ","Breast",2002,0.732364268992272
+"New Jersey","NJ","Breast",2003,0.716365477292624
+"New Jersey","NJ","Breast",2004,0.749481857314273
+"New Jersey","NJ","Breast",2005,0.735161260548154
+"New Jersey","NJ","Breast",2006,0.738070131766272
+"New Jersey","NJ","Breast",2007,0.761005462524509
+"New Jersey","NJ","Breast",2008,0.775549818615098
+"New Jersey","NJ","Breast",2009,0.790765452679098
+"New Jersey","NJ","Breast",2010,0.77834681017098
+"New Jersey","NJ","Breast",2011,0.764921250702744
+"New Jersey","NJ","Prostate",2006,0.843684532916395
+"New Jersey","NJ","Prostate",2007,0.879709784156162
+"New Jersey","NJ","Prostate",2008,0.821979878442747
+"New Jersey","NJ","Prostate",2009,0.819630405535806
+"New Jersey","NJ","Prostate",2010,0.775549818615098
+"New Jersey","NJ","Prostate",2011,0.817057173304394
+"New Jersey","NJ","Prostate",1999,0.814483941072982
+"New Jersey","NJ","Prostate",2000,0.866396104350161
+"New Jersey","NJ","Prostate",2001,0.920657740534281
+"New Jersey","NJ","Prostate",2002,0.941914876358988
+"New Jersey","NJ","Prostate",2003,0.771745910099097
+"New Jersey","NJ","Prostate",2004,0.710323975531918
+"New Jersey","NJ","Prostate",2005,0.737958252104037
+"New Mexico","NM","Breast",1999,0.565792022524276
+"New Mexico","NM","Breast",2000,0.542297269046573
+"New Mexico","NM","Breast",2001,0.546612631930233
+"New Mexico","NM","Breast",2002,0.537981906162914
+"New Mexico","NM","Breast",2003,0.514007667920359
+"New Mexico","NM","Breast",2004,0.564353568229723
+"New Mexico","NM","Prostate",1999,0.604150803712363
+"New Mexico","NM","Prostate",2000,0.553325418638148
+"New Mexico","NM","Prostate",2001,0.607986681831172
+"New Mexico","NM","Prostate",2002,0.615178953303938
+"New Mexico","NM","Prostate",2003,0.650660825902918
+"New Mexico","NM","Prostate",2004,0.645865978254407
+"New Mexico","NM","Prostate",2005,0.615658438068789
+"New Mexico","NM","Prostate",2006,0.685183728972196
+"New Mexico","NM","Prostate",2007,0.70484260433109
+"New Mexico","NM","Prostate",2008,0.65593515831628
+"New Mexico","NM","Prostate",2009,0.656894127845982
+"New Mexico","NM","Prostate",2010,0.664086399318748
+"New Mexico","NM","Prostate",2011,0.533666543279254
+"New Mexico","NM","Breast",2007,0.595520077945043
+"New Mexico","NM","Breast",2008,0.597438017004448
+"New Mexico","NM","Breast",2005,0.547092116695084
+"New Mexico","NM","Breast",2006,0.560038205346063
+"New Mexico","NM","Breast",2011,0.653058249727173
+"New Mexico","NM","Breast",2009,0.641071130605896
+"New Mexico","NM","Breast",2010,0.621412255247002
+"New York","NY","Prostate",2000,0.772755220528965
+"New York","NY","Prostate",1999,0.697956120933888
+"New York","NY","Prostate",2008,0.815497563154723
+"New York","NY","Prostate",2009,0.800102216995682
+"New York","NY","Prostate",2010,0.754371961793005
+"New York","NY","Prostate",2011,0.793619965981349
+"New York","NY","Breast",2003,0.717554801735035
+"New York","NY","Breast",2004,0.706666645734398
+"New York","NY","Breast",2005,0.71036355451601
+"New York","NY","Breast",2006,0.729455809456662
+"New York","NY","Breast",2007,0.738976615633964
+"New York","NY","Breast",2008,0.755536741272143
+"New York","NY","Breast",2009,0.776249558966379
+"New York","NY","Breast",2010,0.740749106145696
+"New York","NY","Breast",2011,0.782579882222563
+"New York","NY","Prostate",2007,0.840869498765511
+"New York","NY","Breast",1999,0.723581269474923
+"New York","NY","Breast",2000,0.725404402572704
+"New York","NY","Breast",2001,0.711781546925395
+"New York","NY","Breast",2002,0.712541185716137
+"New York","NY","Prostate",2003,0.73254500720568
+"New York","NY","Prostate",2004,0.717909299837382
+"New York","NY","Prostate",2001,0.758271440918814
+"New York","NY","Prostate",2002,0.782630524808613
+"New York","NY","Prostate",2005,0.728139102219376
+"New York","NY","Prostate",2006,0.813016076438299
+"North Carolina","NC","Breast",2004,0.587290943531171
+"North Carolina","NC","Breast",2005,0.607403647076759
+"North Carolina","NC","Prostate",2008,0.724359018194354
+"North Carolina","NC","Prostate",2009,0.709978435159258
+"North Carolina","NC","Prostate",2010,0.689061223471847
+"North Carolina","NC","Prostate",2011,0.709475617570619
+"North Carolina","NC","Breast",2003,0.554306109716407
+"North Carolina","NC","Prostate",1999,0.521723529972554
+"North Carolina","NC","Prostate",2000,0.573614305120171
+"North Carolina","NC","Breast",2006,0.648332998792031
+"North Carolina","NC","Breast",2007,0.6669372495717
+"North Carolina","NC","Breast",2008,0.669149646961715
+"North Carolina","NC","Breast",2009,0.712995340691097
+"North Carolina","NC","Breast",2010,0.722448311357523
+"North Carolina","NC","Breast",2011,0.756438780349567
+"North Carolina","NC","Prostate",2007,0.723051692463891
+"North Carolina","NC","Breast",1999,0.55661907062415
+"North Carolina","NC","Breast",2000,0.57612839306337
+"North Carolina","NC","Breast",2001,0.59272137348848
+"North Carolina","NC","Breast",2002,0.571904725318796
+"North Carolina","NC","Prostate",2003,0.567781621091951
+"North Carolina","NC","Prostate",2004,0.620175213828208
+"North Carolina","NC","Prostate",2001,0.605090686169017
+"North Carolina","NC","Prostate",2002,0.600364200835804
+"North Carolina","NC","Prostate",2005,0.643707076976546
+"North Carolina","NC","Prostate",2006,0.68795502477684
+"North Dakota","ND","Breast",2005,0.624761657484563
+"North Dakota","ND","Breast",2006,0.653159914642953
+"North Dakota","ND","Prostate",2009,0.719422514679194
+"North Dakota","ND","Prostate",2010,0.692376555480728
+"North Dakota","ND","Prostate",2011,0.735650090198274
+"North Dakota","ND","Breast",2003,0.613943273805177
+"North Dakota","ND","Breast",2004,0.62340935952464
+"North Dakota","ND","Prostate",1999,0.853300012711601
+"North Dakota","ND","Prostate",2000,0.864118396390987
+"North Dakota","ND","Prostate",2002,0.799208094314669
+"North Dakota","ND","Prostate",2003,0.686967363641035
+"North Dakota","ND","Prostate",2004,0.673444384041802
+"North Dakota","ND","Prostate",2005,0.765400645316586
+"North Dakota","ND","Prostate",2006,0.833015543312751
+"North Dakota","ND","Prostate",2007,0.761343751436817
+"North Dakota","ND","Prostate",2008,0.787037412675359
+"North Dakota","ND","Breast",1999,0.64775072280326
+"North Dakota","ND","Breast",2000,0.642341530963566
+"North Dakota","ND","Breast",2002,0.630170849324257
+"North Dakota","ND","Breast",2007,0.646398424843336
+"North Dakota","ND","Breast",2008,0.608534081965484
+"North Dakota","ND","Breast",2009,0.680205873841419
+"North Dakota","ND","Breast",2010,0.651807616683029
+"North Dakota","ND","Breast",2011,0.640989233003643
+"Ohio","OH","Prostate",2000,0.686466112301509
+"Ohio","OH","Prostate",2001,0.714669959357998
+"Ohio","OH","Prostate",2002,0.721569983102704
+"Ohio","OH","Prostate",1999,0.693969888123877
+"Ohio","OH","Prostate",2008,0.735283780295309
+"Ohio","OH","Prostate",2009,0.710874946298409
+"Ohio","OH","Prostate",2010,0.662229778898227
+"Ohio","OH","Prostate",2011,0.69603989524729
+"Ohio","OH","Breast",2003,0.698627404151555
+"Ohio","OH","Breast",2004,0.712858703125012
+"Ohio","OH","Breast",2005,0.717257468262263
+"Ohio","OH","Breast",2006,0.709149940362232
+"Ohio","OH","Breast",2007,0.725537496755911
+"Ohio","OH","Breast",2008,0.738647541870853
+"Ohio","OH","Breast",2009,0.746927570364502
+"Ohio","OH","Breast",2010,0.710702445704791
+"Ohio","OH","Breast",2011,0.747617572738972
+"Ohio","OH","Prostate",2007,0.762970125570945
+"Ohio","OH","Breast",1999,0.762107622602856
+"Ohio","OH","Breast",2000,0.733127522875088
+"Ohio","OH","Breast",2001,0.728470006847411
+"Ohio","OH","Breast",2002,0.718896223901631
+"Ohio","OH","Prostate",2003,0.667663547597183
+"Ohio","OH","Prostate",2004,0.670337306798257
+"Ohio","OH","Prostate",2005,0.677323580839773
+"Ohio","OH","Prostate",2006,0.739423794542133
+"Oklahoma","OK","Breast",2004,0.678949296953547
+"Oklahoma","OK","Breast",2005,0.654968178603118
+"Oklahoma","OK","Breast",2006,0.644395857609918
+"Oklahoma","OK","Breast",2007,0.677144266540074
+"Oklahoma","OK","Prostate",2008,0.658578239430064
+"Oklahoma","OK","Prostate",2009,0.708087645056757
+"Oklahoma","OK","Prostate",2010,0.677144266540074
+"Oklahoma","OK","Prostate",2011,0.649553087362698
+"Oklahoma","OK","Breast",2003,0.677144266540074
+"Oklahoma","OK","Prostate",1999,0.585603438428221
+"Oklahoma","OK","Prostate",2000,0.607521664877538
+"Oklahoma","OK","Prostate",2001,0.607779526365177
+"Oklahoma","OK","Prostate",2002,0.66244616174465
+"Oklahoma","OK","Breast",2008,0.684364388193966
+"Oklahoma","OK","Breast",2009,0.671471313812015
+"Oklahoma","OK","Breast",2010,0.666314084059235
+"Oklahoma","OK","Breast",2011,0.658062516454786
+"Oklahoma","OK","Prostate",2007,0.780288861595683
+"Oklahoma","OK","Breast",1999,0.660383269843537
+"Oklahoma","OK","Breast",2000,0.648779502899781
+"Oklahoma","OK","Breast",2001,0.657804654967147
+"Oklahoma","OK","Breast",2002,0.660125408355898
+"Oklahoma","OK","Prostate",2003,0.632018506203245
+"Oklahoma","OK","Prostate",2004,0.608037387852816
+"Oklahoma","OK","Prostate",2005,0.624540523061713
+"Oklahoma","OK","Prostate",2006,0.703703999766893
+"Oregon","OR","Breast",2004,0.685097295150242
+"Oregon","OR","Breast",2005,0.69189789330063
+"Oregon","OR","Breast",2006,0.718848411896614
+"Oregon","OR","Breast",2007,0.729427120130551
+"Oregon","OR","Prostate",2008,0.782320661300239
+"Oregon","OR","Prostate",2009,0.69114227128392
+"Oregon","OR","Prostate",2010,0.667466114760346
+"Oregon","OR","Prostate",2011,0.69013477526164
+"Oregon","OR","Breast",2003,0.661169264621097
+"Oregon","OR","Prostate",1999,0.723130269991303
+"Oregon","OR","Prostate",2000,0.680311689044413
+"Oregon","OR","Prostate",2001,0.699957861478868
+"Oregon","OR","Prostate",2002,0.663184256665657
+"Oregon","OR","Prostate",2003,0.622632541768896
+"Oregon","OR","Prostate",2004,0.677792948988713
+"Oregon","OR","Prostate",2005,0.667717988765916
+"Oregon","OR","Prostate",2006,0.701469105512288
+"Oregon","OR","Prostate",2007,0.719100285902184
+"Oregon","OR","Breast",1999,0.726656506069282
+"Oregon","OR","Breast",2000,0.701217231506718
+"Oregon","OR","Breast",2001,0.715825923829775
+"Oregon","OR","Breast",2002,0.710284695707236
+"Oregon","OR","Breast",2011,0.763681984888063
+"Oregon","OR","Breast",2008,0.731945860186251
+"Oregon","OR","Breast",2009,0.766956346960473
+"Oregon","OR","Breast",2010,0.73345710421967
+"Pennsylvania","PA","Prostate",1999,0.849755407923652
+"Pennsylvania","PA","Prostate",2000,0.861016661258919
+"Pennsylvania","PA","Prostate",2001,0.874936821631679
+"Pennsylvania","PA","Prostate",2002,0.881271276632766
+"Pennsylvania","PA","Prostate",2003,0.792276094024896
+"Pennsylvania","PA","Breast",1999,0.821054852548355
+"Pennsylvania","PA","Breast",2000,0.794152969580774
+"Pennsylvania","PA","Breast",2001,0.80987180236125
+"Pennsylvania","PA","Breast",2002,0.777026480133389
+"Pennsylvania","PA","Breast",2003,0.753018113647787
+"Pennsylvania","PA","Breast",2004,0.771317650317595
+"Pennsylvania","PA","Breast",2005,0.762558897723498
+"Pennsylvania","PA","Breast",2006,0.780467418652499
+"Pennsylvania","PA","Breast",2007,0.775384214021996
+"Pennsylvania","PA","Breast",2008,0.814955006991752
+"Pennsylvania","PA","Breast",2009,0.825590635141726
+"Pennsylvania","PA","Breast",2010,0.811123052731835
+"Pennsylvania","PA","Breast",2011,0.834662200328469
+"Pennsylvania","PA","Prostate",2006,0.868211350889784
+"Pennsylvania","PA","Prostate",2007,0.900274641636029
+"Pennsylvania","PA","Prostate",2008,0.810966646435512
+"Pennsylvania","PA","Prostate",2009,0.784142966616093
+"Pennsylvania","PA","Prostate",2010,0.785081404394032
+"Pennsylvania","PA","Prostate",2011,0.8004092214337
+"Pennsylvania","PA","Prostate",2004,0.74574522086876
+"Pennsylvania","PA","Prostate",2005,0.761542256797398
+"Rhode Island","RI","Breast",2005,0.754378665868061
+"Rhode Island","RI","Breast",2008,0.849149855047466
+"Rhode Island","RI","Breast",2009,0.859574685857201
+"Rhode Island","RI","Breast",2006,0.81029366748391
+"Rhode Island","RI","Breast",2007,0.864313245316171
+"Rhode Island","RI","Breast",1999,0.797025700998794
+"Rhode Island","RI","Breast",2000,0.81029366748391
+"Rhode Island","RI","Breast",2001,0.789444005864441
+"Rhode Island","RI","Breast",2002,0.797025700998794
+"Rhode Island","RI","Breast",2003,0.745849258841915
+"Rhode Island","RI","Breast",2004,0.814084515051086
+"Rhode Island","RI","Prostate",1999,0.826404769644409
+"Rhode Island","RI","Prostate",2000,0.888953754502816
+"Rhode Island","RI","Prostate",2001,0.88990146639461
+"Rhode Island","RI","Prostate",2002,0.873790364234111
+"Rhode Island","RI","Prostate",2003,0.724999597222446
+"Rhode Island","RI","Breast",2010,0.705097647494771
+"Rhode Island","RI","Breast",2011,0.795130277215205
+"Rhode Island","RI","Prostate",2006,0.761960361002414
+"Rhode Island","RI","Prostate",2007,0.855783838290024
+"Rhode Island","RI","Prostate",2008,0.848202143155672
+"Rhode Island","RI","Prostate",2009,0.746796970733709
+"Rhode Island","RI","Prostate",2010,0.642548662636364
+"Rhode Island","RI","Prostate",2011,0.673823155065567
+"Rhode Island","RI","Prostate",2004,0.746796970733709
+"Rhode Island","RI","Prostate",2005,0.704149935602977
+"South Carolina","SC","Breast",2005,0.617488073416518
+"South Carolina","SC","Breast",2008,0.700261273606399
+"South Carolina","SC","Breast",2009,0.705641531618742
+"South Carolina","SC","Breast",2006,0.647907224486299
+"South Carolina","SC","Breast",2007,0.681637303563676
+"South Carolina","SC","Breast",1999,0.59162144835718
+"South Carolina","SC","Breast",2000,0.582723329336767
+"South Carolina","SC","Breast",2001,0.592449180359078
+"South Carolina","SC","Breast",2002,0.590793716355281
+"South Carolina","SC","Breast",2003,0.600105701376643
+"South Carolina","SC","Breast",2004,0.578377736326798
+"South Carolina","SC","Prostate",1999,0.637974440463513
+"South Carolina","SC","Prostate",2000,0.646665626483451
+"South Carolina","SC","Prostate",2001,0.66818665853282
+"South Carolina","SC","Prostate",2002,0.739371610696119
+"South Carolina","SC","Prostate",2003,0.653080549498167
+"South Carolina","SC","Prostate",2004,0.707503928623014
+"South Carolina","SC","Prostate",2005,0.707090062622065
+"South Carolina","SC","Prostate",2006,0.748890528717955
+"South Carolina","SC","Prostate",2007,0.799796046834732
+"South Carolina","SC","Prostate",2008,0.767721431761153
+"South Carolina","SC","Prostate",2009,0.708538593625388
+"South Carolina","SC","Prostate",2010,0.711228722631559
+"South Carolina","SC","Prostate",2011,0.685155164571746
+"South Carolina","SC","Breast",2011,0.711021789631084
+"South Carolina","SC","Breast",2010,0.727369496668586
+"South Dakota","SD","Prostate",2002,0.865004248835233
+"South Dakota","SD","Prostate",2003,0.814604272277083
+"South Dakota","SD","Prostate",2001,0.873208896181909
+"South Dakota","SD","Prostate",2006,0.718492689073168
+"South Dakota","SD","Prostate",2007,0.833357751926627
+"South Dakota","SD","Prostate",2004,0.827497289536144
+"South Dakota","SD","Prostate",2005,0.725525243941747
+"South Dakota","SD","Prostate",2010,0.641134585518797
+"South Dakota","SD","Prostate",2011,0.69739502446743
+"South Dakota","SD","Breast",2003,0.648167140387377
+"South Dakota","SD","Breast",2004,0.575497406745392
+"South Dakota","SD","Breast",2005,0.656371787734052
+"South Dakota","SD","Breast",2006,0.598939256307323
+"South Dakota","SD","Breast",2007,0.678641544817886
+"South Dakota","SD","Breast",2008,0.685674099686465
+"South Dakota","SD","Breast",2009,0.671608989949307
+"South Dakota","SD","Breast",2010,0.622381105869253
+"South Dakota","SD","Breast",2011,0.738418261200809
+"South Dakota","SD","Breast",2002,0.723181058985554
+"South Dakota","SD","Prostate",2008,0.752483370937967
+"South Dakota","SD","Prostate",2009,0.726697336419843
+"South Dakota","SD","Breast",2001,0.658715972690245
+"Tennessee","TN","Breast",2004,0.576392901160298
+"Tennessee","TN","Breast",2009,0.70831434926692
+"Tennessee","TN","Breast",2010,0.697320895258035
+"Tennessee","TN","Breast",2011,0.709535844156796
+"Tennessee","TN","Prostate",2007,0.727705580643703
+"Tennessee","TN","Prostate",2008,0.7445011353795
+"Tennessee","TN","Prostate",2009,0.689686552196309
+"Tennessee","TN","Prostate",2010,0.693045663143468
+"Tennessee","TN","Prostate",2011,0.726484085753827
+"Tennessee","TN","Breast",2008,0.68602206752668
+"Tennessee","TN","Breast",2005,0.643117059519781
+"Tennessee","TN","Breast",2006,0.645865423022003
+"Tennessee","TN","Breast",2007,0.660523361700516
+"Tennessee","TN","Prostate",2004,0.507378439882297
+"Tennessee","TN","Prostate",2005,0.594104577063502
+"Tennessee","TN","Prostate",2006,0.641895564629905
+"Texas","TX","Breast",2004,0.458286131543478
+"Texas","TX","Prostate",2008,0.514190065511101
+"Texas","TX","Prostate",2009,0.493267823468805
+"Texas","TX","Prostate",2010,0.433580079770128
+"Texas","TX","Prostate",2011,0.443299277314599
+"Texas","TX","Breast",2003,0.462181229796033
+"Texas","TX","Prostate",1999,0.458805477977152
+"Texas","TX","Breast",2005,0.470750445951654
+"Texas","TX","Breast",2006,0.482101875144814
+"Texas","TX","Breast",2007,0.507067600135
+"Texas","TX","Breast",2008,0.515080373683114
+"Texas","TX","Breast",2009,0.55091527760662
+"Texas","TX","Breast",2010,0.528917246523143
+"Texas","TX","Breast",2011,0.517714202025318
+"Texas","TX","Prostate",2007,0.556442607507865
+"Texas","TX","Breast",1999,0.4504217426907
+"Texas","TX","Breast",2000,0.459732882322998
+"Texas","TX","Breast",2001,0.468339194652453
+"Texas","TX","Breast",2002,0.481990586623313
+"Texas","TX","Prostate",2003,0.471455273254497
+"Texas","TX","Prostate",2000,0.467115020915936
+"Texas","TX","Prostate",2001,0.48955820608542
+"Texas","TX","Prostate",2002,0.488853378782576
+"Texas","TX","Prostate",2004,0.466855347699099
+"Texas","TX","Prostate",2005,0.457507111892967
+"Texas","TX","Prostate",2006,0.497682268155034
+"Utah","UT","Breast",2004,0.380916523893762
+"Utah","UT","Prostate",2008,0.572564088100793
+"Utah","UT","Prostate",2009,0.597709335886822
+"Utah","UT","Prostate",2010,0.592952126846222
+"Utah","UT","Prostate",2011,0.572564088100793
+"Utah","UT","Breast",2003,0.34897526319259
+"Utah","UT","Prostate",1999,0.442760241421563
+"Utah","UT","Prostate",2000,0.423051803967648
+"Utah","UT","Prostate",2001,0.464847283395777
+"Utah","UT","Prostate",2002,0.493390537639378
+"Utah","UT","Prostate",2003,0.512419373801778
+"Utah","UT","Prostate",2004,0.531108409318421
+"Utah","UT","Prostate",2005,0.510720370572992
+"Utah","UT","Prostate",2006,0.551156647418093
+"Utah","UT","Prostate",2007,0.578340699078664
+"Utah","UT","Breast",1999,0.343198652214719
+"Utah","UT","Breast",2000,0.358149880628033
+"Utah","UT","Breast",2001,0.374460311624376
+"Utah","UT","Breast",2002,0.357130478690762
+"Utah","UT","Breast",2007,0.395527951661319
+"Utah","UT","Breast",2008,0.439362234963991
+"Utah","UT","Breast",2005,0.37276130839559
+"Utah","UT","Breast",2006,0.393828948432534
+"Utah","UT","Breast",2011,0.474361701476977
+"Utah","UT","Breast",2009,0.417614993635534
+"Utah","UT","Breast",2010,0.43834283302672
+"Vermont","VT","Prostate",2000,0.836309894312135
+"Vermont","VT","Prostate",1999,0.699052926925029
+"Vermont","VT","Prostate",2008,0.842693939306884
+"Vermont","VT","Prostate",2009,0.785237534354142
+"Vermont","VT","Prostate",2010,0.724589106904025
+"Vermont","VT","Prostate",2011,0.724589106904025
+"Vermont","VT","Breast",2003,0.761297365623833
+"Vermont","VT","Breast",2004,0.78044950060808
+"Vermont","VT","Breast",2005,0.730973151898775
+"Vermont","VT","Breast",2006,0.842693939306884
+"Vermont","VT","Breast",2007,0.831521860566073
+"Vermont","VT","Breast",2008,0.794813601846266
+"Vermont","VT","Breast",2009,0.823541804322637
+"Vermont","VT","Breast",2010,0.847481973052946
+"Vermont","VT","Breast",2011,0.818753770576575
+"Vermont","VT","Prostate",2007,0.852270006799008
+"Vermont","VT","Breast",1999,0.823541804322637
+"Vermont","VT","Breast",2000,0.751721298131709
+"Vermont","VT","Breast",2001,0.794813601846266
+"Vermont","VT","Breast",2002,0.778853489359393
+"Vermont","VT","Prostate",2003,0.76289337687252
+"Vermont","VT","Prostate",2004,0.774065455613331
+"Vermont","VT","Prostate",2001,0.772469444364644
+"Vermont","VT","Prostate",2002,0.8155617480792
+"Vermont","VT","Prostate",2005,0.825137815571324
+"Vermont","VT","Prostate",2006,0.844289950555572
+"Virginia","VA","Breast",2008,0.681335946902636
+"Virginia","VA","Breast",2009,0.689863155122288
+"Virginia","VA","Breast",2003,0.583933610759848
+"Virginia","VA","Breast",2004,0.619843966501763
+"Virginia","VA","Breast",2005,0.607353407982836
+"Virginia","VA","Breast",2006,0.635817469223084
+"Virginia","VA","Breast",2007,0.672688637158763
+"Virginia","VA","Prostate",2003,0.601228230247593
+"Virginia","VA","Prostate",2004,0.571803356813582
+"Virginia","VA","Breast",2010,0.669445896004811
+"Virginia","VA","Breast",2011,0.705596454795167
+"Virginia","VA","Prostate",2007,0.771892496164858
+"Virginia","VA","Prostate",2008,0.717966911789874
+"Virginia","VA","Prostate",2009,0.666203154850859
+"Virginia","VA","Prostate",2010,0.605311682071088
+"Virginia","VA","Prostate",2011,0.612998179621197
+"Virginia","VA","Prostate",2005,0.638099398183272
+"Virginia","VA","Prostate",2006,0.671127317343897
+"Washington","WA","Breast",2004,0.618987669810933
+"Washington","WA","Breast",2005,0.648443042796674
+"Washington","WA","Breast",2008,0.690077079613058
+"Washington","WA","Breast",2009,0.73879173493563
+"Washington","WA","Breast",2006,0.633007294453185
+"Washington","WA","Breast",2007,0.631874395492195
+"Washington","WA","Prostate",2008,0.698573821820484
+"Washington","WA","Prostate",2009,0.676340679711054
+"Washington","WA","Prostate",2010,0.692059652794791
+"Washington","WA","Prostate",2011,0.662887504549297
+"Washington","WA","Breast",2003,0.632299232602566
+"Washington","WA","Prostate",1999,0.640229525329497
+"Washington","WA","Prostate",2000,0.618987669810933
+"Washington","WA","Prostate",2001,0.637822115037393
+"Washington","WA","Prostate",2002,0.652974638640635
+"Washington","WA","Prostate",2003,0.629750209940339
+"Washington","WA","Prostate",2004,0.649292717017417
+"Washington","WA","Prostate",2005,0.642070486141105
+"Washington","WA","Prostate",2006,0.703247030034568
+"Washington","WA","Prostate",2007,0.705654440326671
+"Washington","WA","Breast",1999,0.646177244874694
+"Washington","WA","Breast",2000,0.634423418154423
+"Washington","WA","Breast",2001,0.656373335523605
+"Washington","WA","Breast",2002,0.669260061204866
+"Washington","WA","Breast",2011,0.73992463389662
+"Washington","WA","Breast",2010,0.702680580554073
+"West Virginia","WV","Prostate",2000,0.822017309382239
+"West Virginia","WV","Prostate",2001,0.823098199992866
+"West Virginia","WV","Prostate",1999,0.737707841753291
+"West Virginia","WV","Prostate",2004,0.677177967558149
+"West Virginia","WV","Prostate",2005,0.727439380952329
+"West Virginia","WV","Prostate",2002,0.788509700452785
+"West Virginia","WV","Prostate",2003,0.676097076947522
+"West Virginia","WV","Breast",1999,0.77770079434651
+"West Virginia","WV","Breast",2000,0.737167396447977
+"West Virginia","WV","Breast",2001,0.753921200912704
+"West Virginia","WV","Breast",2002,0.697174443854759
+"West Virginia","WV","Breast",2003,0.724737154425761
+"West Virginia","WV","Breast",2004,0.738248287058605
+"West Virginia","WV","Breast",2005,0.739329177669232
+"West Virginia","WV","Breast",2006,0.725277599731074
+"West Virginia","WV","Breast",2007,0.73608650583735
+"West Virginia","WV","Breast",2008,0.683663311221914
+"West Virginia","WV","Breast",2009,0.754461646218018
+"West Virginia","WV","Breast",2010,0.744193185417056
+"West Virginia","WV","Breast",2011,0.743652740111742
+"West Virginia","WV","Prostate",2006,0.832826215488514
+"West Virginia","WV","Prostate",2007,0.899300988042107
+"West Virginia","WV","Prostate",2008,0.769594114766803
+"West Virginia","WV","Prostate",2009,0.732303388700153
+"West Virginia","WV","Prostate",2010,0.720954037288564
+"West Virginia","WV","Prostate",2011,0.730141607478898
+"Wisconsin","WI","Breast",2005,0.679106649965159
+"Wisconsin","WI","Breast",2006,0.694217207138297
+"Wisconsin","WI","Breast",2007,0.714885670398106
+"Wisconsin","WI","Breast",2008,0.721138314745611
+"Wisconsin","WI","Breast",2009,0.729475173875618
+"Wisconsin","WI","Breast",2010,0.709675133441851
+"Wisconsin","WI","Breast",2011,0.753096274743972
+"Wisconsin","WI","Breast",1999,0.714538301267689
+"Wisconsin","WI","Breast",2000,0.724785690614989
+"Wisconsin","WI","Breast",2001,0.737638348440417
+"Wisconsin","WI","Breast",2002,0.696822475616424
+"Wisconsin","WI","Breast",2003,0.672332951922028
+"Wisconsin","WI","Breast",2004,0.656180287357639
+"Wisconsin","WI","Prostate",1999,0.725306744310615
+"Wisconsin","WI","Prostate",2000,0.731212019527703
+"Wisconsin","WI","Prostate",2001,0.765427878873774
+"Wisconsin","WI","Prostate",2002,0.751706798222304
+"Wisconsin","WI","Prostate",2003,0.724264636919364
+"Wisconsin","WI","Prostate",2004,0.754312066700431
+"Wisconsin","WI","Prostate",2005,0.73381728800583
+"Wisconsin","WI","Prostate",2006,0.73607518735354
+"Wisconsin","WI","Prostate",2007,0.781927912568579
+"Wisconsin","WI","Prostate",2008,0.758133127135017
+"Wisconsin","WI","Prostate",2009,0.72131199931082
+"Wisconsin","WI","Prostate",2010,0.706548811268099
+"Wisconsin","WI","Prostate",2011,0.695954052790381
+"Wyoming","WY","Breast",2005,0.511852203104324
+"Wyoming","WY","Breast",2006,0.556361090330787
+"Wyoming","WY","Breast",2007,0.568344252276373
+"Wyoming","WY","Breast",2008,0.60086997755725
+"Wyoming","WY","Breast",2009,0.571768012832255
+"Wyoming","WY","Breast",2010,0.587174935333722
+"Wyoming","WY","Breast",2011,0.648802625339594
+"Wyoming","WY","Breast",1999,0.5820392944999
+"Wyoming","WY","Breast",2000,0.599158097279309
+"Wyoming","WY","Breast",2001,0.513564083382265
+"Wyoming","WY","Breast",2002,0.575191773388136
+"Wyoming","WY","Breast",2003,0.585463055055782
+"Wyoming","WY","Breast",2004,0.559784850886668
+"Wyoming","WY","Prostate",1999,0.672768949230767
+"Wyoming","WY","Prostate",2000,0.746379801182225
+"Wyoming","WY","Prostate",2001,0.736108519514579
+"Wyoming","WY","Prostate",2002,0.691599632288116
+"Wyoming","WY","Prostate",2003,0.744667920904284
+"Wyoming","WY","Prostate",2004,0.703582794233703
+"Wyoming","WY","Prostate",2005,0.653938266173417
+"Wyoming","WY","Prostate",2006,0.799448089798392
+"Wyoming","WY","Prostate",2007,0.821702533411623
+"Wyoming","WY","Prostate",2008,0.768634244795456
+"Wyoming","WY","Prostate",2009,0.725837237846934
+"Wyoming","WY","Prostate",2010,0.684752111176353
+"Wyoming","WY","Prostate",2011,0.696735273121939
+"Puerto Rico","PR"
